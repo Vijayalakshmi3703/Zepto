@@ -61,5 +61,11 @@
       .box a{
         color: black;
       }
-    
+
+@media (max-width:575.98px) {
+  .overall{
+    width:300px;
+    margin:50px auto;
+      }
+}
       
