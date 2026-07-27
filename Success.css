@@ -13,3 +13,10 @@ img{
 div a{
     color: black;
 }
+
+@media (max-width:575.98px) {
+  img{
+   width:300px;
+    margin:50px auto;
+      }
+}
