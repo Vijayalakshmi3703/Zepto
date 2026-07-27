@@ -114,6 +114,12 @@ nav span a{
     .left{
         gap:5px;
     }
+    .cart{
+        width:360px;
+        font-size: 0.8rem;;
+        margin:0;
+        /* transform: scale(0%); */
+    }
 }
 @media (min-width:576px) and (max-width:1200px){
     .left{
